@@ -2,9 +2,11 @@
 CST2110 - Coursework 1 (Five Dice Strategy Game using Java)
 
 TASK
+
 Your task is to write a Java 8 program (as a NetBeans project) to simulate a simple dice game for two players sitting at the console, i.e., taking turns by sharing the keyboard. The game is a scoring game that requires five dice. The aim of the game is to be the player with the highest cumulative score after seven rounds of play. A description of the game follows.
 
 GAME DESCRIPTION
+
 This game must be entirely text-based, operating at the NetBeans console. This is a requirement of the task. The program will be required to represent the following scoresheet at the console:
 __________________________________
 |Category  |Player 1  |Player 2  |
