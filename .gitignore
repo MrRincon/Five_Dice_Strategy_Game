@@ -1,2 +1,5 @@
-/Five_Dice_Strategy_Game/nbproject/private/
-/Five_Dice_Strategy_Game/build/
+Five_Dice_Strategy_Game/nbproject
+Five_Dice_Strategy_Game/test
+Five_Dice_Strategy_Game/build.xml
+Five_Dice_Strategy_Game/manifest.mf 
+
